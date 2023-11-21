@@ -1,6 +1,8 @@
 # Nutrition and Health Tracking Excel Tool 📊🍕
 
-Greetings everyone! 👋 I'm excited to share my first project. I’ve been immersed in developing a comprehensive nutrition and health tracking tool for my “Portfolio” project using Excel. Here’s a breakdown in a more polished manner
+Greetings everyone! 👋 I'm excited to share my first project. I’ve been immersed in developing a comprehensive nutrition and health tracking tool for my “Portfolio” project using Excel. Based on survey results, I have developed an automated Python API to extract data on over 5000 of the most consumed dishes in the USA and organize them into Excel sheets according to user preferences. In addition to providing users with a diverse menu, we offer a dynamic table where they can effortlessly add their recipes. We integrate monthly tracking and body analysis functionalities throughout these processes to enhance user experience. All these features are made user-friendly and interactive through VBA codes, ensuring a seamless and engaging platform for users.
+
+Here’s a breakdown in a more polished manner
 # 1.	Data Source:
 •	Acquired an extensive USDA Food Data Central dataset via their API (https://fdc.nal.usda.gov/).
 # 2.	API Integration:

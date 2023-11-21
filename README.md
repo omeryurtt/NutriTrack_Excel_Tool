@@ -9,21 +9,21 @@ Greetings everyone! 👋 I'm excited to share my first project. I’ve been imme
 •	I have implemented Excel functions, such as XLOOKUP, INDIRECT, Conditional Formatting, and more, to organize and manipulate the food dataset efficiently. Simultaneously, I conducted meticulous data cleaning, eliminating duplicates to enhance the Excel files' overall structure and user experience. This dual approach ensures a streamlined and user-friendly interface for effective data management.
 # 4.	User-Customized Foods:
 •	Introduced a dedicated section enabling users to add their food items, ensuring adaptability to individual preferences.
-![](https://github.com/omeryurtt/NutriTrack_excel_tool/blob/main/ezgif.com-video-to-gif%20(3).gif)
+![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/ezgif.com-video-to-gif%20(3).gif)
 # 5.	Efficient Search Feature:
 •	Implemented a user-friendly “Search Your Food” sheet, allowing seamless food exploration and addition, complemented by basic VBA scripting.
 
-![](https://github.com/omeryurtt/NutriTrack_excel_tool/blob/main/ezgif.com-video-to-gif.gif)
+![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/search.gif)
 # 6.	Personalized Consultation:
 •	Developed an “INITIAL CONSULTATION” sheet, offering users a platform to input personal information for body composition analysis and caloric needs. Presented results through visually appealing pie and donut charts.
 ![INITIAL](https://github.com/omeryurtt/NutriTrack_excel_tool/assets/63366806/799fe7ff-5456-4020-a131-89798e69906e)
 # 7.	Meal Planning:
 •	 Created a sophisticated “WEEKLY MEAL PLAN” sheet, empowering users to select and quantify foods with real-time nutritional insights through bar and pie graphs.
 
-![](https://github.com/omeryurtt/NutriTrack_excel_tool/blob/main/ezgif.com-video-to-gif_weekly.gif)
+![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/ezgif.com-video-to-gif.gif)
 # 8.	Comprehensive Monthly Tracking:
 •	Arrange a “MONTHLY TRACKING” sheet to showcase users' success ratio and changes in body measurements over time, emphasizing a holistic approach to progress tracking.
-![](https://github.com/omeryurtt/NutriTrack_excel_tool/blob/main/ezgif.com-video-to-gif%20(2).gif)
+![](https://github.com/omeryurtt/NutriTrack_Excel_Tool/blob/main/Gif/ezgif.com-video-to-gif%20(2).gif)
 # 9.	Interactive Functionality:
 •	Implemented VBA scripts for user-friendly buttons, enhancing the tool’s functionality. Utilized Excel functions for real-time data manipulation and visualization.
 # Important Notes
